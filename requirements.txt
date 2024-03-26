@@ -1,4 +1,4 @@
 Django==4.2.8
 gunicorn
 requests
-BeautifulSoup
+beautifulsoup4
